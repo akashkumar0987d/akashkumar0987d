@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash Kumar</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektyagi2912&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektyagi2912" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumar0987d&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumar0987d" /> </p>
 
 - 🌱 I’m currently learning **C++ **
 
