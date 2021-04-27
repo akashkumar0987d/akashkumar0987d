@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumar0987d&label=Profile%20views&color=0e75b6&style=flat" alt="akashkumar0987d" /> </p>
 
-- 🌱 I’m currently learning **C++ **
+- 🌱 I’m currently learning ** C++ **
 
 - 👯 I’m looking to collaborate on **open source project**
 
